@@ -1,0 +1,26 @@
+div.Gallery alt
+{
+  text-align: center;
+  color: brown;
+  font-size: medium;
+
+}
+div.Gallery {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+  border: 1px solid #ccc;
+  float:left;
+  width: 330px;
+}
+div.Gallery:hover
+{
+  border: 1px solid #777;
+}
+
+div.Gallery img
+{
+    width: 330px;
+  
+}
